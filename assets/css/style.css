@@ -1877,17 +1877,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 	 * RESUME
 	 */
 
-   .allskill ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: space-between; /* Adjust alignment as needed */
-  }
-  .allskill ul li {
-    margin-right: 10px; /* Optional: Adjust spacing between items */
-  }
-
   .timeline-text { max-width: 700px; }
 
 }
